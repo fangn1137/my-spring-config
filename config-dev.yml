@@ -1,4 +1,4 @@
 application:
   name: fangnTest
-  version: 1
+  version: 2
   info: this is my first springcloud dev config ${application.version}
